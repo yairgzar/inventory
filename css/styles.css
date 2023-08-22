@@ -1,0 +1,146 @@
+.catdireccion {
+    background: #05e3be;
+    color: #5a5c69;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #5a5c69;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;
+    display: inline-block;
+    
+    }
+    .catlab1 {
+    background: #c2b7f2;
+    color: #5a5c69;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #5a5c69;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;
+    display: inline-block;
+    
+    }
+    .catlab2 {
+    background: #C9F2B7;
+    color: #5a5c69;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #5a5c69;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;
+    display: inline-block;
+    }
+    .catlab3 {
+    background: #f9bd93;
+    color: #5a5c69;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #5a5c69;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;
+    display: inline-block;
+    
+    }
+    .catlab4
+    {
+    background: #fbf4136b;
+    color: #5a5c69;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #5a5c69;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;   
+    display: inline-block;
+    }
+    .catlab5 {
+    background: #5a5c698c;
+    color: #5a5c69;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #5a5c69;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;  
+    display: inline-block;
+    
+    }
+    .catlabmac {
+    background: #7f8bb9;
+    color: #5a5c69;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #5a5c69;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;  
+    display: inline-block;
+    
+    }
+    .cataula124 {
+        background: #b7ccf2;
+        color: #5a5c69;
+        font-weight: bold;
+        padding: 15px;
+        border: 2px solid #5a5c69;
+        border-radius: 6px;
+        text-align:center;
+        width: 90%;
+        margin: 20px;   
+        display: inline-block;
+    
+    }
+    .cataula125 {
+    background: #eff2b7;
+    color: #5a5c69;
+    font-weight: bold;
+    padding: 15px;
+    border: 2px solid #5a5c69;
+    border-radius: 6px;
+    text-align:center;
+    width: 90%;
+    margin: 20px;  
+    display: inline-block;
+    display: inline-block;
+    }
+
+
+    /* colores para tabla */
+    .direccion {
+         font-weight: bold; padding: 15px; border-left:20px solid #05e3be;
+    }
+    .lab1 {
+         font-weight: bold; padding: 15px; border-left:20px solid #c2b7f2;
+    }
+    .lab2 {
+        font-weight: bold; padding: 15px; border-left:20px solid #C9F2B7;
+    }
+    .lab3 {
+        font-weight: bold; padding: 15px; border-left:20px solid #fbf4136b; 
+    }
+    .lab4 {
+        font-weight: bold; padding: 15px; border-left:20px solid #f9bd93;
+    }
+    .lab5 {
+        font-weight: bold; padding: 15px; border-left:20px solid #5a5c698c;
+    }
+    .labmac {
+        font-weight: bold; padding: 15px; border-left:20px solid #7f8bb9;
+    }
+    .aula124 {
+        font-weight: bold; padding: 15px; border-left:20px solid #b7ccf2;
+    }
+    .aula125 {
+        font-weight: bold; padding: 15px; border-left:20px solid #eff2b7;
+    }
